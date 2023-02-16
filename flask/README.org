@@ -1,6 +1,5 @@
 https://FlaskProjectPart1.ysears.repl.co
 
-Routes
 https://FlaskProjectPart1.ysears.repl.co/about
 
 https://FlaskProjectPart1.ysears.repl.co/temp_demo  
