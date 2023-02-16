@@ -1,8 +1,10 @@
 https://FlaskProjectPart1.ysears.repl.co
 
 Routes
-/about
-/temp_demo  
-/lucky
+https://FlaskProjectPart1.ysears.repl.co/about
+
+https://FlaskProjectPart1.ysears.repl.co/temp_demo  
+
+https://FlaskProjectPart1.ysears.repl.co/lucky
 
 https://FlaskProjectPart1.ysears.repl.co/chem_tables
